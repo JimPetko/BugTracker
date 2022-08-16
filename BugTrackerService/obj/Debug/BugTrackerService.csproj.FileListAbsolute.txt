@@ -1,0 +1,2 @@
+C:\Users\JPetko\source\repos\BugTrackerService\BugTrackerService\obj\Debug\BugTrackerService.csproj.AssemblyReference.cache
+C:\Users\JPetko\source\repos\BugTrackerService\BugTrackerService\obj\Debug\BugTrackerService.csproj.CoreCompileInputs.cache
